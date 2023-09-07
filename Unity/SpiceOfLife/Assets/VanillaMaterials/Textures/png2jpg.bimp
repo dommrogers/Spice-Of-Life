@@ -1,0 +1,14 @@
+#BIMP 2.6
+#MANIPULATION SET DEFINITION
+
+[CHANGEFORMAT]
+format=3
+quality=80
+smoothing=0
+entropy=true
+progressive=false
+comment=
+subsampling=2
+baseline=true
+markers=0
+dct=1

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SpiceOfLife
+  m_EditorClassIdentifier: 
+  m_GroupName: SpiceOfLife
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7291ccba116b25844a23240ad57c174b
+  m_SerializeEntries:
+  - m_GUID: 7208e665cee8ec74ab30ffa1df69f01b
+    m_Address: OBJ_RugsA_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a15b2cb918d36b2408c51cc77450cfaa
+    m_Address: OBJ_HouseInteriorLightsD_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20351338fc82e824684323af1a3525e3
+    m_Address: OBJ_HouseInteriorLightsC_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a767c0dbaa8653844b43e9b77c38425b
+    m_Address: OBJ_HouseInteriorLightsB_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4f76801f6a33b54196922326462238d
+    m_Address: OBJ_HouseInteriorLights_A01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f6e8d95fb78efc46b5fdaf74983e49e
+    m_Address: OBJ_RugsPatterned_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: feed411498524cf4a9c9b7cf725826b4
+    m_Address: OBJ_RugsC_A1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 642d874fe964fa842ad6fc8f1f14423a
+    m_Address: OBJ_BrandSodaFridgesB_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99b24a02d9274694bbc75dc7522e692c
+    m_Address: OBJ_BrandSodaFridges_A01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1440d13d52fa7c04298528244add1a16
+    m_Address: OBJ_StoreShelves_A01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1bbca265d80b9a04882d10873dccf625
+    m_Address: OBJ_StoreShelves_A02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b02a694803f50d04fb1390d7f6032fa1
+    m_Address: OBJ_StoreShelves_B01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63b52aa72fd70e049bc88fdb0b884589
+    m_Address: OBJ_CarTruck_A01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7060b0f7c3a7f941a7fb4c0404a6bae
+    m_Address: OBJ_CarTruck_B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05fac60ec4e19764487aff4d87555680
+    m_Address: OBJ_CarTruck_C
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: beb6b8c75e4250744bd80d08bb5023ff, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a180f1c442fef7f4a8cabaecdc6a5795, type: 2}
+    - {fileID: 11400000, guid: 264be588114289c4481414dcc1600dc5, type: 2}
